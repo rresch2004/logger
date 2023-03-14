@@ -1,0 +1,19 @@
+{
+    "name": "rresch2004/logger",
+    "description": "A library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rresch2004\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rresch2004",
+            "email": "59953979+rresch2004@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
