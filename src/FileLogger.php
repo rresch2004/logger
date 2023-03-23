@@ -1,6 +1,6 @@
 <?php
 
-namespace Mbacher1810\Logger;
+namespace Rresch2004\Logger;
 
 class FileLogger implements ILogger
 {
